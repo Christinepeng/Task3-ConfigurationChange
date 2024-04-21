@@ -7,3 +7,6 @@ Constraints:
 The counter can range from 0 to a maximum of 1,000.
 Only the screen rotation configuration change needs to be handled.
 Output Format: The TextView should display the current counter value, updating every time the button is pressed. This value should persist across configuration changes.
+
+Output Format: 
+The TextView should display the current counter value, updating every time the button is pressed. This value should persist across configuration changes.
